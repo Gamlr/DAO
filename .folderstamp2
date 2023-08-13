@@ -1,0 +1,92 @@
+This folder: /media/daniella/B/git/Gamlr/Gamlr/&DAO
+
+  File: ./.folderstamp
+  Size: 52        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4186920     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-13 15:32:01.770001200 -0300
+Modify: 2023-08-13 15:32:01.766365200 -0300
+Change: 2023-08-13 15:32:01.766365200 -0300
+ Birth: -
+IPFS hash: QmUQ2LLnDVqaQmDTC1qZn8gKnDMz6HnPLBqQumynHempsm
+------------------------------
+  File: ./.folderstamp1
+  Size: 3613      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4186852     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-13 15:29:01.035775100 -0300
+Modify: 2023-08-13 15:29:02.176911600 -0300
+Change: 2023-08-13 15:31:58.133614400 -0300
+ Birth: -
+IPFS hash: Qma3SjioQyWkuR1F2wtkaySevpYq6LSWD9G5zEuGx6462u
+------------------------------
+  File: ./Allocation.txt
+  Size: 703       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 1547399     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-02-26 20:52:42.239229700 -0300
+Modify: 2023-02-26 20:40:27.722595200 -0300
+Change: 2023-08-13 15:31:58.106517700 -0300
+ Birth: -
+IPFS hash: QmfDzyTBJg1oERaFrNs1DVxbcm669UtqhA3wu5GiqjKUZi
+------------------------------
+  File: ./Tasks/Argent token icon-info.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 4143845     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-01-26 17:57:45.868218800 -0300
+Modify: 2023-01-26 17:57:45.868218800 -0300
+Change: 2023-03-25 11:13:35.887170000 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Tasks/Trust token icon-info.txt
+  Size: 54        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4143857     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-03-25 16:49:39.370005200 -0300
+Modify: 2023-03-25 11:13:20.878668100 -0300
+Change: 2023-03-25 11:13:35.891131000 -0300
+ Birth: -
+IPFS hash: QmckfqoFGK5JPw8N1HAbpFPdn8KrEoF4dW44VkbBsvab2B
+------------------------------
+  File: ./Tasks.txt
+  Size: 16        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 1547443     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-02-26 20:40:52.527744700 -0300
+Modify: 2023-02-26 20:40:43.171835800 -0300
+Change: 2023-08-13 15:31:58.112211700 -0300
+ Birth: -
+IPFS hash: QmZpc3Mwby3PJc3J49DR9Z62sKLw2YvpfXQGviBKo3CE6s
+------------------------------
+  File: ./Tokens.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1910124     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-02-26 20:53:45.157648700 -0300
+Modify: 2023-02-26 20:53:45.157648700 -0300
+Change: 2023-08-13 15:31:58.117846600 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./URL-ID.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1547324     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-02-26 20:39:31.183017900 -0300
+Modify: 2023-02-26 20:39:31.183017900 -0300
+Change: 2023-08-13 15:31:58.123713300 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Vault-Agent.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 1852141     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-02-26 20:49:43.173487800 -0300
+Modify: 2023-02-26 20:49:43.173487800 -0300
+Change: 2023-08-13 15:31:58.128622000 -0300
+ Birth: -
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
